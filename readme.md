@@ -36,7 +36,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Prashant6743&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Prashant6743&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<hr/>
+
 
 <!-- ===================== -->
 <!-- Achievements -->
@@ -60,10 +60,11 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Prashant6743&theme=onedark&no-frame=true&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=Prashant6743&theme=onedark&no-frame=true"
     alt="GitHub Trophies"
   />
 </p>
+
 
 <hr/>
 
