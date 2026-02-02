@@ -13,6 +13,9 @@
   ⚡ Full Stack Dev | ☁️ Cloud & DevOps Curious | 🚀 Still Leveling Up
 </p>
 
+
+<img align="center" width="100%" src="gh-space-shooter.gif" />
+
 ---
 
 <!-- ===================== -->
