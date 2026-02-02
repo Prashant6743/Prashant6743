@@ -1,7 +1,6 @@
-
-<img align="center" width="100%" src="name.png" />
-
-
+<h1 align="center" style="font-size: 64px;">
+ Hello, I am Prashant..!👋
+</h1>
 
 <p align="center">
   <a href="https://zane-portfolio.kiyo-n-zane.com/">Personal Website</a> •
