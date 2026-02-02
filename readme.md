@@ -1,9 +1,14 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1100&color=A855F7&center=true&vCenter=true&width=800&lines=Hello+there,+Prashant+Kumar+👋"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1100&color=A855F7&center=true&vCenter=true&width=800&lines=Hello+there,+Prashant+Kumar+👋"
     alt="Typing SVG"
   />
 </p>
+
+
+
+
+
 <img align="center" width="100%" src="gh-space-shooter.gif" />
 
 
