@@ -1,6 +1,6 @@
 
-<img align="center" width="100%" src="/Users/prashantkumar/iCloud Drive (Archive)/Desktop ofline /Prashant6743/name.png" />
-\
+<img align="center" width="100%" src="name.png" />
+
 
 
 <p align="center">
