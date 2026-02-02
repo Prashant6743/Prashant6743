@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+Zane+%21%F0%9F%91%8B" />
+<img align="center" width="100%" src="name.jpg" />
 
 <p align="center">
   <a href="https://zane-portfolio.kiyo-n-zane.com/">Personal Website</a> •
