@@ -32,44 +32,46 @@
 <!-- GitHub Stats -->
 <!-- ===================== -->
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Prashant6743&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Prashant6743&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Prashant6743&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Prashant6743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
   />
 </p>
 
----
+<hr/>
+
+<hr/>
 
 <!-- ===================== -->
 <!-- Achievements -->
 <!-- ===================== -->
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Prashant6743&theme=onedark&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=Prashant6743&theme=onedark&no-frame=true&column=4"
     alt="GitHub Trophies"
   />
 </p>
 
----
+<hr/>
 
 <!-- ===================== -->
 <!-- Quote -->
 <!-- ===================== -->
 
-## 🧠 Quote of the Day
+### 🧠 Quote of the Day
 
 <p align="center">
   <img
@@ -78,25 +80,25 @@
   />
 </p>
 
----
+<hr/>
 
 <!-- ===================== -->
 <!-- Fun Fact -->
 <!-- ===================== -->
 
-## 🚀 Fun Fact
+### 🚀 Fun Fact
 
-🔥 *Every bug I fix unlocks +5 XP.  
-Every feature I ship unlocks +10 XP.*  
-Yeah bro — this is basically an RPG 🎮
+🔥 *Every bug I fix unlocks +5 XP*  
+✨ *Every feature I ship unlocks +10 XP*  
+Yep — we’re grinding like it’s an RPG 🎮
 
----
+<hr/>
 
 <!-- ===================== -->
 <!-- Connect -->
 <!-- ===================== -->
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Prashant6743">
@@ -110,12 +112,12 @@ Yeah bro — this is basically an RPG 🎮
   </a>
 </p>
 
----
+<hr/>
 
 <p align="center">
   👀 Profile Views
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prashant6743&color=8b5cf6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Prashant6743&style=flat&color=8b5cf6" />
 </p>
