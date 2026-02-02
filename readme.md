@@ -1,4 +1,4 @@
-<img align="center" width="100%"  />
+<img align="center" width="100%"  src="name.jpg" />
 
 <p align="center">
   <a href="https://zane-portfolio.kiyo-n-zane.com/">Personal Website</a> •
