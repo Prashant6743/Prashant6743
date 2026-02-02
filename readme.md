@@ -1,14 +1,14 @@
-<h1 align="center">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&pause=1100&color=A855F7&center=true&vCenter=true&width=620&lines=Hello+there,+Prashant+Kumar.!+👋"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1100&color=A855F7&center=true&vCenter=true&width=800&lines=Hello+there,+Prashant+Kumar+👋"
     alt="Typing SVG"
   />
-</h1>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prashant6743&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" />
 </p>
+<img align="center" width="100%" src="gh-space-shooter.gif" />
+
+
+
+
 
 ---
 
@@ -18,7 +18,10 @@
 
 ---
 
-<img align="center" width="100%" src="gh-space-shooter.gif" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prashant6743&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" />
+</p>
+
 
 
 
